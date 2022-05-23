@@ -1,8 +1,8 @@
-/* vendor */
-@import url(../vendor/normalize.css);
-
 /*fonts*/
 @import url(../fonts/inter.css);
+
+/* vendor */
+@import url(../vendor/normalize.css);
 
 /* root */
 @import url(../blocks/root/root.css);
