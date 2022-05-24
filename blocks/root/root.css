@@ -4,6 +4,10 @@
   --color-white:#ffffff;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .root {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
