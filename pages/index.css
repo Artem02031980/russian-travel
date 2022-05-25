@@ -7,12 +7,6 @@
 /* root */
 @import url(../blocks/root/root.css);
 
-/* container */
-@import url(../blocks/container/container.css);
-
-/* card-container */
-@import url(../blocks/card-container/card-container.css);
-
 /* card */
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__title/card__title.css);
@@ -42,10 +36,9 @@
 @import url(../blocks/hero/hero.css);
 @import url(../blocks/hero/__title/hero__title.css);
 @import url(../blocks/hero/__subtitle/hero__subtitle.css);
-@import url(../blocks/hero/__container/hero__container.css);
 @import url(../blocks/hero/__route/hero__route.css);
 @import url(../blocks/hero/__route-pic/hero__route-pic.css);
-@import url(../blocks/hero/__tagline/hero__tagline.css);
+@import url(../blocks/hero/__route-tag/hero__route-tag.css);
 
 /*description*/
 @import url(../blocks/description/description.css);
@@ -54,6 +47,9 @@
 @import url(../blocks/description/__list/description__list.css);
 @import url(../blocks/description/__list-item/description__list-item.css);
 @import url(../blocks/description/__list-item-value/description__list-item-value.css);
+
+/* card-container */
+@import url(../blocks/card-container/card-container.css);
 
 /*cover*/
 @import url(../blocks/cover/cover.css);
