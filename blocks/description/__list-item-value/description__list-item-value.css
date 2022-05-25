@@ -1,0 +1,7 @@
+.description__list-item-value {
+  font-weight: 400;
+}
+
+.description__list-item-value::before {
+  content: ' ';
+}
