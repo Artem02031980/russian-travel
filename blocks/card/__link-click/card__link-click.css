@@ -1,0 +1,14 @@
+.card__link-click {
+  display: block;
+  width: max-content;
+  color: var(--color-white);
+  font-size: 18px;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+  transition: opacity .3s ease;
+}
+
+.card__link-click:hover {
+  opacity: 0.8;
+}

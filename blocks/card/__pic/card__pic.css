@@ -1,6 +1,19 @@
 .card__pic {
-  display: block;
-  padding: 0;
+  object-fit: cover;
+  padding: 0 35px 0 0;
   margin: 0;
   width: 100%;
+}
+
+@media (max-width:1023.98px) {
+  .card__pic {
+    padding: 0 20px 0 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .card__pic {
+    padding: 0;
+    margin-bottom: 32px;
+  }
 }

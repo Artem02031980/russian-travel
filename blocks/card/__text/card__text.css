@@ -1,0 +1,10 @@
+.card__text {
+  font-size: 18px;
+  line-height: 1.63;
+}
+
+@media (max-width:1023.98px) {
+  .card__text {
+    font-size: 16px;
+  }
+}
