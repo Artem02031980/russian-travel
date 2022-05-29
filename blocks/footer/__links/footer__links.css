@@ -8,6 +8,6 @@
     flex-direction: column;
     gap: 32px;
     width: calc(100% - 16px*2);
-    margin-bottom: 50px;
+    margin-bottom: 45px;
   }
 }

@@ -4,10 +4,6 @@
   --color-white:#ffffff;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .root {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -18,4 +14,5 @@
   text-rendering: optimizeLegibility;
   color: var(--color-white);
   background-color: var(--color-dark);
+  box-sizing: border-box;
 }

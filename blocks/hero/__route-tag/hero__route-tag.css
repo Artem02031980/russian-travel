@@ -1,9 +1,10 @@
 .hero__route-tag {
-  margin: 0;
-  padding: 0;
   font-size: 10px;
+  line-height: 1;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  margin: 0;
+  padding: 0;
 }
 
 @media (max-width: 1023.98px) {
