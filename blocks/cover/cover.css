@@ -2,7 +2,7 @@
   position: relative;
   min-height: 740px;
   width: calc(100% - 48px*2);
-  max-width: 1500px;
+  max-width: 1280px;
   margin: 0 auto;
   background: url('./cover-bg.jpg') no-repeat;
   background-size: cover;

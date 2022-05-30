@@ -7,10 +7,15 @@
   font-size: 24px;
   border-bottom: 1px solid transparent;
   margin-right: 18px;
+  transition: opacity .3s ease;
 }
 
 .header__link:last-child {
   margin-right: 0;
+}
+
+.header__link:hover {
+  opacity: .8;
 }
 
 

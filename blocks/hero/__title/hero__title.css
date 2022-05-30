@@ -1,9 +1,11 @@
 .hero__title {
   font-size: 96px;
   font-weight: 900;
-  line-height: 1;
+  line-height: 1.04;
   text-align: center;
-  margin: 0 0 35px 0;
+  max-width: 90%;
+  margin: 0 auto;
+  margin-bottom: 35px;
   padding: 0;
 }
 
