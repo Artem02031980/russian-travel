@@ -8,7 +8,8 @@
   content: 'URL';
   color: var(--color-grey);
   font-size: 12px;
-  line-height: 3.3;
+  letter-spacing: 2px;
+  line-height: 1;
 }
 
 @media (max-width:1023.98px) {
